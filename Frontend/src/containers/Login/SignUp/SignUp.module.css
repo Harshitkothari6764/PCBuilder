@@ -1,0 +1,34 @@
+.contain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    margin: 20px 0;
+}
+
+.textInput{
+    margin: 10px;
+    width: 85%;
+}
+
+.error{
+    border-color: red;
+}
+
+.error:focus{
+    outline: none !important;
+    border-color: red;
+}
+
+.msg{
+    font-size: x-small;
+    margin: 0;
+}
+
+.errorMsg{
+    color: red;
+    font-size: small;
+    margin: 0;
+}

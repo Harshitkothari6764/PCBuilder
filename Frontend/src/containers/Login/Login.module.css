@@ -1,0 +1,13 @@
+.contain{
+    height: 100%;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.card{
+    position: absolute;
+    top: 25%;
+    border: 2px solid;
+    width: 320px;
+}
