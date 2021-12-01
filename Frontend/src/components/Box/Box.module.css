@@ -1,0 +1,15 @@
+.contain{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.containHead{
+    margin-bottom: 0px;
+    margin-top:-20px;
+    margin-left:5px;
+    width: fit-content;
+    background:white;
+}
