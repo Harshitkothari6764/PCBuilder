@@ -1,0 +1,13 @@
+.text{
+    display: block;
+    width:100% ;
+    margin: 5px;
+}
+
+.box{
+    width: 100px;
+}
+
+.selected{
+    background-color: lightblue;
+}
