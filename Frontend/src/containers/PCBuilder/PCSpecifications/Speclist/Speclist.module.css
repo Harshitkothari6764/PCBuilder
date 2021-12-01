@@ -1,0 +1,23 @@
+.description{
+    font-weight: 400;
+}
+
+.specLine{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sum{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price{
+    display: inline;
+    font-weight: 500;
+    width: 60px;
+}
+
+.points{
+    margin-left: 15px;
+}
