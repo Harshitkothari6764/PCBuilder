@@ -1,0 +1,9 @@
+.nav-item{
+    @media (max-width: 991px) {
+        background-color: red;
+    }
+}
+
+.name{
+    margin: auto 0;
+}
