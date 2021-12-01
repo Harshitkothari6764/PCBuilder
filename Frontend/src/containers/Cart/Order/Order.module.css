@@ -1,0 +1,25 @@
+.image{
+    width: 100px;
+}
+
+.li{
+    text-decoration: none;
+}
+
+.quantity{
+    display: block;
+    text-align: middle;
+}
+
+.text{
+    margin: auto 0;
+}
+
+.order{
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+.specs{
+    padding: 0 20px;
+}
