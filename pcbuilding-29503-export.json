@@ -1,0 +1,201 @@
+{
+  "components" : {
+    "g1050" : [ 50, "NVIDIA® GeForce® GTX 1050", {
+      "points" : [ "Memory: 4 GB GDDR5", "Memory Speed: 7.0 Gbps", "Base Clock (MHz): 1290", "Boost Clock (MHz): 1392", "CUDA Cores: 768", "Graphics Card Power: 75W" ],
+      "title" : "NVIDIA® GeForce® GTX 1050"
+    } ],
+    "g1060" : [ 60, "NVIDIA® GeForce® GTX 1060", {
+      "points" : [ "Memory: 6 GB GDDR5", "Memory Speed: 8.0 Gbps", "Base Clock (MHz): 1506", "Boost Clock (MHz): 1708", "CUDA Cores: 1280", "Graphics Card Power: 120W" ],
+      "title" : "NVIDIA® GeForce® GTX 1060"
+    } ],
+    "g1070" : [ 100, "NVIDIA® GeForce® GTX 1070", {
+      "points" : [ "Memory: 8 GB GDDR5", "Memory Speed: 8.0 Gbps", "Base Clock (MHz): 1607", "Boost Clock (MHz): 1683", "CUDA Cores: 2432", "Graphics Card Power: 180W" ],
+      "title" : "NVIDIA® GeForce® GTX 1070"
+    } ],
+    "g1080" : [ 110, "NVIDIA® GeForce® GTX 1080", {
+      "points" : [ "Memory: 11 GB GDDR5X", "Memory Speed: 11 Gbps", "Base Clock (MHz): 1480", "Boost Clock (MHz): 1582", "CUDA Cores: 3584", "Graphics Card Power: 250W" ],
+      "title" : "NVIDIA® GeForce® GTX 1080"
+    } ],
+    "i310G" : [ 60, "Intel® Core™ i3-10320 Processor", {
+      "points" : [ "8 MB Intel® Smart Cache Cache", "4 Cores", "8 Threads", "4.60 GHz Max Turbo Frequency", "10th Generation" ],
+      "title" : "Intel® Core™ i3-10320 Processor"
+    } ],
+    "i311G" : [ 50, "Intel® Core™ i3-1115G4 Processor", {
+      "points" : [ "2 Cores", "6 MB Intel® Smart Cache Cache", "4 Threads", "4.10 GHz Max Turbo Frequency", "G - Includes discrete graphics on package", "11th Generation" ],
+      "title" : "Intel® Core™ i3-1115G4 Processor (6M Cache, up to 4.10 GHz)"
+    } ],
+    "i510G" : [ 110, "Intel® Core™ i5-10400T Processor", {
+      "points" : [ "12 MB Intel® Smart Cache Cache", "6 Cores", "12 Threads", "3.60 GHz Max Turbo Frequency", "T - Power-optimized lifestyle", "10th Generation" ],
+      "title" : "Intel® Core™ i5-10400T Processor"
+    } ],
+    "i511G" : [ 100, "Intel® Core™ i5-1130G7 Processor", {
+      "points" : [ "8 MB Intel® Smart Cache Cache", "4 Cores", "8 Threads", "4.00 GHz Max Turbo Frequency", "G - Includes discrete graphics on package", "11th Generation" ],
+      "title" : "Intel® Core™ i5-1130G7 Processor"
+    } ],
+    "i710G" : [ 200, "Intel® Core™ i7-10700T Processor", {
+      "points" : [ "16 MB Intel® Smart Cache Cache", "8 Cores", "16 Threads", "4.50 GHz Max Turbo Frequency", "T - Power-optimized lifestyle", "10th Generation" ],
+      "title" : "Intel® Core™ i7-10700T Processor"
+    } ],
+    "i711G" : [ 170, "Intel® Core™ i7-1160G7 Processor", {
+      "points" : [ "12 MB Intel® Smart Cache Cache", "4 Cores", "8 Threads", "4.40 GHz Max Turbo Frequency", "G - Includes discrete graphics on package", "11th Generation" ],
+      "title" : "Intel® Core™ i7-1160G7 Processor (12M Cache, up to 4.40 GHz)"
+    } ],
+    "i910KG" : [ 380, "Intel® Core™ i9-10900K Processor", {
+      "points" : [ "20 MB Intel® Smart Cache Cache", "10 Cores", "20 Threads", "5.30 GHz Max Turbo Frequency", "K - Unlocked", "10th Generation" ],
+      "title" : "Intel® Core™ i9-10900K Processor"
+    } ],
+    "i910TG" : [ 350, "Intel® Core™ i9-10900T Processor", {
+      "points" : [ "20 MB Intel® Smart Cache Cache", "10 Cores", "20 Threads", "4.60 GHz Max Turbo Frequency", "T - Power-optimized lifestyle", "10th Generation" ],
+      "title" : "Intel® Core™ i9-10900T Processor"
+    } ],
+    "mbasrock" : [ 729, "ASRock TRX40 CREATOR AMD Motherboardv", {
+      "points" : [ "Supports 3rd Gen AMD Ryzen™ Threadripper™ Processors", "8 Power Phase Design, 90A Dr. MOS & Power Choke", "Supports DDR4 4666+(OC)", "4 PCIe 4.0 x16", "8 SATA3, 2 Hyper M.2 (PCIe Gen4 x4), 1 Hyper M.2 (PCIe Gen4 x4 & SATA3)", "8 USB 3.2 Gen1 (4 Front, 4 Rear)", "Intel® Wi-Fi 6 802.11ax (2.4Gbps) + BT 5.0" ],
+      "title" : "ASRock TRX40 CREATOR AMD Motherboardv"
+    } ],
+    "mbprime" : [ 234, "ASUS Prime Z390-A LGA 1151 (300 Series)", {
+      "points" : [ "Designed for 9th and 8th generation Intel Core processor", "PCI Express 3.0 2-way SLI™ & 3-way CrossFireX™", "4 x USB 3.1 Gen 2 (3A1C)", "6 x SATA 3.0 Ports", "DDR4 4266(O.C.)/2666/ 2400/2133 Support", "2 x M.2 PCIE x4 mode support (2280 & 22110)", "4 x USB 3.2 Gen 2" ],
+      "title" : "ASUS Prime Z390-A LGA 1151 (300 Series)"
+    } ],
+    "mbrog" : [ 499, "ASUS ROG MAXIMUS XII HERO (WI-FI)", {
+      "points" : [ "Intel LGA 1200 socket", "Dual Ethernet with 5Gb and gigabit Ethernet", " 3 x M.2 slots", "Intel WiFi 6 AX201", "ASUS-exclusive Aura Sync RGB lighting", "4 X USB3.1 Gen 1", "4 x USB 3.2 Gen 2" ],
+      "title" : "ASUS ROG MAXIMUS XII HERO (WI-FI)"
+    } ],
+    "r128x32" : [ 889, "Corsair Vengeance RGB PRO 128GB (4x32GB)", {
+      "points" : [ "Memory: 128 GB DDR4", "Multi channel 32 GB (128 GB total)", "Speed - 3600MHz", "Dynamic Multi-Zone RGB Lighting" ],
+      "title" : "Corsair Vengeance RGB PRO 128GB (4x32GB)"
+    } ],
+    "r16x16" : [ 84, "Corsair Vengeance 16GB (1x16GB)", {
+      "points" : [ "Memory: 16 GB DDR4", "Single channel 16 GB (16 GB total)", "Speed - 2666MHz" ],
+      "title" : "Corsair Vengeance 16GB (1x16GB)"
+    } ],
+    "r16x8" : [ 89, "Corsair Vengeance LPX 16GB (2x8GB)", {
+      "points" : [ "Memory: 16 GB DDR4", "Dual channel 8 GB (16 GB total)", "Speed - 3200MHz" ],
+      "title" : "Corsair Vengeance LPX 16GB (2x8GB)"
+    } ],
+    "r2060" : [ 399, "NVIDIA® GeForce® RTX 2060 SUPER™", {
+      "points" : [ "Memory: 6 GB GDDR6", "Memory Speed: 14 Gbps", "Real-time ray tracing", "Base Clock (MHz): 1470", "Boost Clock (MHz): 1680", "CUDA Cores: 2176", "Graphics Card Power: 175W" ],
+      "title" : "NVIDIA® GeForce® RTX 2060 SUPER™"
+    } ],
+    "r2070" : [ 499, "NVIDIA® GeForce® RTX 2070 SUPER™", {
+      "points" : [ "Memory: 8 GB GDDR6", "Memory Speed: 14 Gbps", "Real-time ray tracing", "Base Clock (MHz): 1605", "Boost Clock (MHz): 1770", "CUDA Cores: 2560", "Graphics Card Power: 215W" ],
+      "title" : "NVIDIA® GeForce® RTX 2070 SUPER™"
+    } ],
+    "r2080" : [ 699, "NVIDIA® GeForce® RTX 2070 SUPER™", {
+      "points" : [ "Memory: 8 GB GDDR6", "Memory Speed: 15.5 Gbps", "Real-time ray tracing", "Base Clock (MHz): 1650", "Boost Clock (MHz): 1815", "CUDA Cores: 3072", "Graphics Card Power: 250W" ],
+      "title" : "NVIDIA® GeForce® RTX 2070 SUPER™"
+    } ],
+    "r3090" : [ 1499, "NVIDIA® GeForce RTX™ 3090", {
+      "points" : [ "Memory: 24 GB GDDR6", "Memory Speed: 14 Gbps", "Real-time ray tracing", "Base Clock (MHz): 1400", "Boost Clock (MHz): 1770", "CUDA Cores: 10496", "Graphics Card Power: 350W" ],
+      "title" : "NVIDIA® GeForce RTX™ 3090"
+    } ],
+    "r32x16" : [ 201, "Corsair Vengeance RGB Pro 32GB (2x16GB)", {
+      "points" : [ "Memory: 32 GB DDR4", "Dual channel 16 GB (32 GB total)", "Speed - 3200MHz", "Dynamic Multi-Zone RGB Lighting" ],
+      "title" : "Corsair Vengeance RGB Pro 32GB (2x16GB)"
+    } ],
+    "r333G" : [ 99, "AMD Ryzen™ 3 3300X", {
+      "points" : [ "Total L2 Cache 2MB", "Total L3 Cache 4MB", "4 Cores", "4 Threads", "4.0 GHz Max Turbo Frequency", "Unlocked", "Radeon™ Vega 8 Graphics" ],
+      "title" : "AMD Ryzen™ 3 3300X"
+    } ],
+    "r4x4" : [ 48, "Corsair Value Select 4GB", {
+      "points" : [ "Memory: 4 GB DDR4", "Single channel 4 GB (4 GB total)", "Speed - 2133MHz" ],
+      "title" : "Corsair Value Select 4GB"
+    } ],
+    "r534G" : [ 149, "AMD Ryzen™ 5 3400G", {
+      "points" : [ "Total L2 Cache 2MB", "Total L3 Cache 4MB", "4 Cores", "8 Threads", "4.2 GHz Max Turbo Frequency", "Unlocked", "Radeon™ RX Vega 11 Graphics" ],
+      "title" : "AMD Ryzen™ 5 3400G"
+    } ],
+    "r64x16" : [ 462, "Corsair Vengeance LPX 64GB (4x16GB)", {
+      "points" : [ "Memory: 64 GB DDR4", "Multi channel 16 GB (64 GB total)", "Speed - 2133MHz", "Dynamic Multi-Zone RGB Lighting" ],
+      "title" : "Corsair Vengeance LPX 64GB (4x16GB)"
+    } ],
+    "r737X" : [ 279, "AMD Ryzen™ 7 3700X", {
+      "points" : [ "Total L2 Cache 4MB", "Total L3 Cache 32MB", "8 Cores", "16 Threads", "4.4 GHz Max Turbo Frequency", "Unlocked", "PCI Express® 4.0 x16" ],
+      "title" : "AMD Ryzen™ 7 3700X"
+    } ],
+    "r8x4" : [ 65, "Corsair Vengeance LPX 8GB (2x4GB)", {
+      "points" : [ "Memory: 8 GB DDR4", "Dual channel 4 GB (8 GB total)", "Speed - 2666MHz" ],
+      "title" : "Corsair Vengeance LPX 8GB (2x4GB)"
+    } ],
+    "r8x8" : [ 48, "Corsair Vengeance LPX 8GB (1 x 8GB)", {
+      "points" : [ "Memory: 8 GB DDR4", "Single channel 8 GB (8 GB total)", "Speed - 2400MHz" ],
+      "title" : "Corsair Vengeance LPX 8GB (1 x 8GB)"
+    } ],
+    "r939X" : [ 439, "AMD Ryzen™ 9 3900X", {
+      "points" : [ "Total L2 Cache 6MB", "Total L3 Cache 64MB", "12 Cores", "24 Threads", "4.6 GHz Max Turbo Frequency", "Unlocked", "PCI Express® 4.0 x16" ],
+      "title" : "AMD Ryzen™ 9 3900X"
+    } ],
+    "rtitan" : [ 2499, "NVIDIA® TITAN RTX", {
+      "points" : [ "Memory: 24 GB GDDR6", "Memory Speed: 14 Gbps", "Real-time ray tracing", "Base Clock (MHz): 1350", "Boost Clock (MHz): 1770", "CUDA Cores: 4608", "Graphics Card Power: 280W" ],
+      "title" : "NVIDIA® TITAN RTX"
+    } ],
+    "ssd1000" : [ 144, "Kingston 1000G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4", {
+      "points" : [ "SSD: 1000 GB", "PCI Express x4", "Write Speed 2200 mbps" ],
+      "title" : "Kingston 1000G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4"
+    } ],
+    "ssd2000" : [ 299, "Sabrent Rocket Q 2TB NVMe PCIe M.2", {
+      "points" : [ "SSD: 2000 GB", "PCI Express x4", "Write Speed 2200 mbps" ],
+      "title" : "Sabrent Rocket Q 2TB NVMe PCIe M.2"
+    } ],
+    "ssd250" : [ 49, "Kingston 250G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4", {
+      "points" : [ "SSD: 250 GB", "PCI Express x4", "Write Speed 1100 mbps" ],
+      "title" : "Kingston 250G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4"
+    } ],
+    "ssd4000" : [ 299, "Sabrent Rocket Q 4TB NVMe PCIe M.2", {
+      "points" : [ "SSD: 4000 GB", "PCI Express x4", "Write Speed 2200 mbps" ],
+      "title" : "Sabrent Rocket Q 4TB NVMe PCIe M.2"
+    } ],
+    "ssd500" : [ 79, "Kingston 500G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4", {
+      "points" : [ "SSD: 500 GB", "PCI Express x4", "Write Speed 2000 mbps" ],
+      "title" : "Kingston 500G A2000 M.2 2280 NVMe PCIe Gen 3.0 x4"
+    } ],
+    "hdd3" : [ 132, "Seagate IronWolf 3TB", {
+      "points" : [ "HDD: 3 TB", "SATA 6.0 Gb/s", "NAS-optimized hard drive" ],
+      "title" : "Seagate IronWolf 3TB"
+    } ],
+    "hdd8" : [ 292, "Seagate IronWolf 8TB", {
+      "points" : [ "HDD: 8 TB", "SATA 6.0 Gb/s", "Optimized for NAS enclosures with AgileArray" ],
+      "title" : "Seagate IronWolf 8TB"
+    } ],
+    "qr6000" : [ 3837, "NVIDIA® Quadro RTX™ 6000", {
+      "points" : [ "GPU Memory 24 GB GDDR6", "CUDA Cores 4608", " Tensor Cores 576", "System Interface PCI Express 3.0 x 16", "Total graphics power: 260 W", "Display Connectors 4xDP 1.4, 1x USB-C", "Single-Precision Performance 16.3 TFLOPS", "Tensor Performance 130.5 TFLOPS" ],
+      "title" : "NVIDIA® Quadro RTX™ 6000"
+    } ],
+    "qr8000" : [ 5368, "NVIDIA® Quadro RTX™ 8000", {
+      "points" : [ "GPU Memory 48 GB GDDR6", "CUDA Cores 4608", " Tensor Cores 576", "System Interface PCI Express 3.0 x 16", "Total graphics power: 260 W", "Display Connectors 4xDP 1.4, VirtualLink", "Single-Precision Performance 16.3 TFLOPS", "Tensor Performance 130.5 TFLOPS" ],
+      "title" : "NVIDIA® Quadro RTX™ 8000"
+    } ],
+    "t936X" : [ 1299, "AMD Ryzen™ Threadripper™ 3960X", {
+      "points" : [ "Total L2 Cache 12MB", "Total L3 Cache 128MB", "24 Cores", "48 Threads", "4.5 GHz Max Turbo Frequency", "Unlocked", "PCI Express® 4.0 x16" ],
+      "title" : "AMD Ryzen™ Threadripper™ 3960X"
+    } ],
+    "t937X" : [ 1799, "AMD Ryzen™ Threadripper™ 3970X", {
+      "points" : [ "Total L2 Cache 16MB", "Total L3 Cache 128MB", "32 Cores", "64 Threads", "4.5 GHz Max Turbo Frequency", "Unlocked", "PCI Express® 4.0 x16" ],
+      "title" : "AMD Ryzen™ Threadripper™ 3970X"
+    } ]
+  },
+  "desktops" : {
+    "budget" : {
+      "cpu" : ["i310G", "i311G", "i510G", "i511G", "i710G", "i711G", "r333G", "r534G", "r737X"],
+      "gpu" : ["g1050", "g1060", "g1070", "r2060", "r2070"],
+      "memory" : ["r4x4", "r8x8", "r8x4", "r16x16", "r16x8", "r32x16"],
+      "motherboard" : ["mbprime", "mbrog"],
+      "storage" : ["ssd250", "ssd500", "ssd1000"]
+    },
+    "gaming" : {
+      "cpu" : ["i310G", "i311G", "i510G", "i511G", "i710G", "i711G", "r333G", "r534G", "r737X", "r939X"],
+      "gpu" : ["g1050", "g1060", "g1070", "g1080", "r2060", "r2070", "r2080", "r3090"],
+      "memory" : ["r8x8", "r8x4", "r16x16", "r16x8", "r32x16", "r64x16"],
+      "motherboard" : ["mbprime", "mbrog"],
+      "storage" : ["ssd250", "ssd500", "ssd1000", "ssd2000"]
+    },
+    "workstation" : {
+      "cpu" : ["i510G", "i511G", "i710G", "i711G", "i910TG", "i910KG", "r333G", "r534G", "r737X", "r939X", "t936X", "t937X"],
+      "gpu" : ["g1080", "r2080", "r3090", "rtitan", "qr6000", "qr8000"],
+      "gpu2" : ["g1080", "r2080", "r3090", "rtitan", "qr6000", "qr8000"],
+      "memory" : ["r16x16", "r16x8", "r32x16", "r64x16", "r128x32"],
+      "motherboard" : ["mbrog", "mbasrock"],
+      "storage" : ["ssd500", "ssd1000", "ssd2000"],
+      "storage2" : ["hdd3", "hdd8"]
+    }
+  }
+}
